@@ -1,7 +1,7 @@
 [project]
-name = "eco-state-network-experiments"
+name = "echo-state-network-experiments"
 version = "0.1.0"
-description = "Add your description here"
+description = "Experiments with echo state networks"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
